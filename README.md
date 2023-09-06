@@ -16,13 +16,13 @@ At the moment there are no UX features implemented, as such it is hard to use.
 ## Example
 
 ### Sending a message to channels with the #tag1 tag
-![Sending of #tag1 message](pics/#tag1_send.PNG)
+![Sending of #tag1 message](pics/#tag1_send.PNG?raw=true)
 
 ### Receiving a message from the broadcaster with the #tag1 tag
-![Receiving of #tag1 message](pics/#tag1_receive.PNG)
+![Receiving of #tag1 message](pics/#tag1_receive.PNG?raw=true)
 
 ### Sending a message to channels with the #tag2 tag
-![Sending of #tag2 message](pics/#tag2_send.PNG)
+![Sending of #tag2 message](pics/#tag2_send.PNG?raw=true)
 
 ### Receiving a message from the broadcaster with the #tag1 tag
-![Receiving of #tag2 message](pics/#tag2_receive.PNG)
+![Receiving of #tag2 message](pics/#tag2_receive.PNG?raw=true)
